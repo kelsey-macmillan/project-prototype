@@ -52,7 +52,7 @@ shinyServer(function(input, output) {
   })
   
   cpal <- eventReactive(input$map_color,{
-    colorQuantile("YlOrRd", domain = cdata())
+    colorQuantile("PuRd", domain = cdata())
   })
   
   output$mapmain <- renderLeaflet({
