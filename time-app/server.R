@@ -49,6 +49,7 @@ shinyServer(function(input, output) {
   # Render map
   cpal <-  colorFactor(c('#d9d9d9','#bdbdbd','#969696','#737373','#525252','#252525'), 
                        shapefile@data[['OBJECTID']])
+  
   output$mapmain <- renderLeaflet({
     m <- leaflet() %>%
       addProviderTiles(providers$CartoDB.Positron) %>%

@@ -189,9 +189,9 @@ shinyServer(function(input, output) {
       na.omit() %>%
       filter(date == ymd(paste(year(input$month),month(input$month),1,sep='-'))) %>%
       mutate(text = ifelse(common_name %in% obj_selected$names, Neighborhood,'')) %>%
-      mutate_(text_y =as.name("Days on Market")) %>%
+      mutate_(text_y =as.name("Median Ppsf")) %>%
       select(c(one_of('common_name','date','Neighborhood','line_color','line_opacity','text','text_y',
-                      "Days on Market","Median Sale Price","Homes Sold","Inventory","Median Ppsf"))) %>%
+                      "Median Ppsf","Median Sale Price","Homes Sold","Inventory","Days on Market"))) %>%
       gather('Var','Value',8:12) %>%
       ggvis(x=~Var, y=~Value) %>%
       group_by(common_name) %>%

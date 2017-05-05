@@ -1,0 +1,94 @@
+s_name,l_name,common_name,object ID
+Adams,BALLARD,ballard,28
+Loyal Heights,BALLARD,ballard,27
+Sunset Hill,BALLARD,ballard,119
+West Woodland,BALLARD,ballard,30
+Whittier Heights,BALLARD,ballard,29
+Holly Park,BEACON HILL,holly park,82
+Mid-Beacon Hill,BEACON HILL,beacon hill,80
+North Beacon Hill,BEACON HILL,beacon hill,79
+South Beacon Hill,BEACON HILL,beacon hill,81
+Broadway,CAPITOL HILL,capitol hill,100
+Madison Park,CAPITOL HILL,madison park,99
+Montlake,CAPITOL HILL,montlake,98
+Portage Bay,CAPITOL HILL,portage bay,97
+Stevens,CAPITOL HILL,stevens,101
+Eastlake,CASCADE,cascade,48
+South Lake Union,CASCADE,south lake union,49
+Westlake,CASCADE,westlake,47
+Atlantic,CENTRAL AREA,atlantic,58
+Harrison/Denny-Blaine,CENTRAL AREA,denny blaine,54
+Leschi,CENTRAL AREA,leschi,56
+Madrona,CENTRAL AREA,madrona,53
+Mann,CENTRAL AREA,mann,57
+Minor,CENTRAL AREA,minor,55
+High Point,DELRIDGE,delridge,92
+Highland Park,DELRIDGE,delridge,89
+North Delridge,DELRIDGE,delridge,90
+Riverview,DELRIDGE,delridge,91
+Roxhill,DELRIDGE,delridge,94
+South Delridge,DELRIDGE,delridge,93
+Belltown,DOWNTOWN,belltown,60
+Central Business District,DOWNTOWN,central district,62
+First Hill,DOWNTOWN,first hill,63
+International District,DOWNTOWN,downtown seattle,61
+Pike-Market,DOWNTOWN,downtown seattle,59
+Pioneer Square,DOWNTOWN,downtown seattle,65
+Yesler Terrace,DOWNTOWN,downtown seattle,64
+Interbay,INTERBAY,,66
+Cedar Park,LAKE CITY,lake city,106
+Matthews Beach,LAKE CITY,matthews beach,103
+Meadowbrook,LAKE CITY,meadowbrook,104
+Olympic Hills,LAKE CITY,olympic hills,105
+Victory Heights,LAKE CITY,victory heights,102
+Briarcliff,MAGNOLIA,magnolia,51
+Lawton Park,MAGNOLIA,magnolia,50
+Southeast Magnolia,MAGNOLIA,magnolia,52
+NA,NA,,108
+NA,NA,,109
+Bitter Lake,NO BROADER TERM,bitter lake,111
+Broadview,NO BROADER TERM,broadview,110
+Bryant,NO BROADER TERM,bryant,38
+Crown Hill,NO BROADER TERM,crown hill,117
+Fremont,NO BROADER TERM,fremont,33
+Georgetown,NO BROADER TERM,,68
+Green Lake,NO BROADER TERM,green lake,34
+Greenwood,NO BROADER TERM,greenwood,118
+Harbor Island,NO BROADER TERM,,70
+Industrial District,NO BROADER TERM,,67
+Industrial District,NO BROADER TERM,,107
+Laurelhurst,NO BROADER TERM,,40
+North Beach/Blue Ridge,NO BROADER TERM,north beach / blue ridge,114
+Phinney Ridge,NO BROADER TERM,phinney ridge,31
+Ravenna,NO BROADER TERM,ravenna,36
+Roosevelt,NO BROADER TERM,roosevelt,41
+Sand Point,NO BROADER TERM,,37
+South Park,NO BROADER TERM,south park,69
+View Ridge,NO BROADER TERM,view ridge,35
+Wallingford,NO BROADER TERM,wallingford,32
+Wedgwood,NO BROADER TERM,wedgwood,96
+Windermere,NO BROADER TERM,westlake,39
+Haller Lake,NORTHGATE,haller lake,112
+Maple Leaf,NORTHGATE,maple leaf,116
+North College Park,NORTHGATE,north college park,115
+Pinehurst,NORTHGATE,pinehurst,113
+East Queen Anne,QUEEN ANNE,queen anne,43
+Lower Queen Anne,QUEEN ANNE,queen anne,45
+North Queen Anne,QUEEN ANNE,queen anne,46
+West Queen Anne,QUEEN ANNE,queen anne,44
+Brighton,RAINIER VALLEY,brighton,83
+Columbia City,RAINIER VALLEY,columbia city,88
+Dunlap,RAINIER VALLEY,dunlap,84
+Mount Baker,RAINIER VALLEY,mount baker,87
+Rainier Beach,RAINIER VALLEY,rainier valley,85
+Rainier View,RAINIER VALLEY,rainier valley,86
+Seward Park,SEWARD PARK,,95
+University District,UNIVERSITY DISTRICT,university district,42
+Alki,WEST SEATTLE,alki point,74
+Arbor Heights,WEST SEATTLE,arbor heights,73
+Fairmount Park,WEST SEATTLE,fairmount park,76
+Fauntleroy,WEST SEATTLE,fauntleroy,78
+Gatewood,WEST SEATTLE,gatewood,72
+Genesee,WEST SEATTLE,genesee,77
+North Admiral,WEST SEATTLE,north admiral,75
+Seaview,WEST SEATTLE,seaview,71
